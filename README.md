@@ -1,2 +1,2 @@
-# Receita-Alura
-Desenvolvido no curso de arquitetura CSS da Alura.
+# arquitetura-css
+curso de arquitetura da Alura. 
